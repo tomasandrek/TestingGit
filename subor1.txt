@@ -8,3 +8,4 @@
 8
 pozmenil z githubu
 10
+Dobrý deň prajem - test fork a pull request - from: Matej Mazur
