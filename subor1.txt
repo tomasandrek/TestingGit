@@ -8,3 +8,4 @@ moja zmena
 8
 zmena z githubu
 10
+asdasd
